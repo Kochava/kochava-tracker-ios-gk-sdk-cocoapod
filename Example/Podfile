@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KochavaTrackeriOSGK_Example' do
+  pod 'KochavaTrackeriOSGK', :path => '../'
+
+  target 'KochavaTrackeriOSGK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

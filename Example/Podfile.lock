@@ -1,0 +1,16 @@
+PODS:
+  - KochavaTrackeriOSGK (0.1.0)
+
+DEPENDENCIES:
+  - KochavaTrackeriOSGK (from `../`)
+
+EXTERNAL SOURCES:
+  KochavaTrackeriOSGK:
+    :path: ../
+
+SPEC CHECKSUMS:
+  KochavaTrackeriOSGK: 73332a3bb2917318b0fdcd95424789af156e831a
+
+PODFILE CHECKSUM: 761dd9df03b0e394da691b2313089639a1682239
+
+COCOAPODS: 1.2.0.beta.3
