@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KochavaTrackeriOSGK'
-  s.version          = '0.1.0'
-  s.summary          = 'The KochavaTracker iOS SDK (GameKit)'
+  s.version          = '3.1.0'
+  s.summary          = 'The KochavaTra`cker iOS SDK (+GameKit).  Kochava is a leading mobile attribution and analytics platform.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
