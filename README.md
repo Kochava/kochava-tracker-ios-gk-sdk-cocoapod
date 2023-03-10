@@ -6,6 +6,10 @@
 
 <img src="https://storage.googleapis.com/kochava-web/2016/07/Kochava-horizontal-black-800x154.png" width="260" />
 
+## Deprecation Notice
+
+This module was deprecated on March 9th, 2023.  Please contact support@kochava.com if you have any questions.
+
 ## KochavaTracker iOS SDK (GameKit Variant)
 
 The KochavaTracker iOS SDK allows advertisers to integrate a single SDK to leverage the hundreds of ad network and publisher partners integrated with Kochava. This limits the number of 3rd party SDKs required to run a successful UA strategy and greatly reduces complexity during update cycles.
